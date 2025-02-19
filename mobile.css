@@ -7,7 +7,7 @@
     header {
     
         padding: 10px 15px;
-        height: 150px;
+        height: 100px;
         flex-direction: column;
         justify-content: center;
         align-items: center;
@@ -30,7 +30,7 @@
     
     main{
         padding: 30px 20px;
-        height: calc(100vh - 180px);
+        height: calc(100vh - 130px);
     }
 
 
